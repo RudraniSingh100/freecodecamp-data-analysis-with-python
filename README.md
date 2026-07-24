@@ -126,7 +126,6 @@ https://www.freecodecamp.org/learn/data-analysis-with-python/
 **Rudrani**
 
 - GitHub: https://github.com/RudraniSingh100
-- LinkedIn: https://www.linkedin.com/in/rudrani-singh/
 
 ---
 
